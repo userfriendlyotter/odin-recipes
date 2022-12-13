@@ -1,0 +1,22 @@
+h1, h2 {
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+
+button {
+    font-weight: bold;
+    font-size: large;
+    }
+
+.button-1 {
+    background-color: red;
+}
+
+.button-2 {
+    background-color: green;
+}
+
+.button-3 {
+    background-color: gold;
+}
